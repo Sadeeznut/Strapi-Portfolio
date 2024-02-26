@@ -1,0 +1,117 @@
+{
+  "kind": "singleType",
+  "collectionName": "aboutmees",
+  "info": {
+    "singularName": "aboutmee",
+    "pluralName": "aboutmees",
+    "displayName": "About",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "profile": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "t_name": {
+      "type": "string"
+    },
+    "desc_name": {
+      "type": "text"
+    },
+    "t_plan": {
+      "type": "string"
+    },
+    "t_use": {
+      "type": "string"
+    },
+    "use_icon": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "stack_icon": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "link_icon": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "t_education": {
+      "type": "string"
+    },
+    "desc_plan": {
+      "type": "text"
+    },
+    "t_skills": {
+      "type": "string"
+    },
+    "t_stack": {
+      "type": "string"
+    },
+    "desc_time": {
+      "type": "string"
+    },
+    "edu_tk": {
+      "type": "string"
+    },
+    "edu_sd": {
+      "type": "string"
+    },
+    "edu_smp": {
+      "type": "string"
+    },
+    "edu_smk": {
+      "type": "string"
+    },
+    "desc_tk": {
+      "type": "string"
+    },
+    "desc_sd": {
+      "type": "string"
+    },
+    "desc_smp": {
+      "type": "string"
+    },
+    "desc_smk": {
+      "type": "string"
+    },
+    "skill_1": {
+      "type": "string"
+    },
+    "skill_2": {
+      "type": "string"
+    }
+  }
+}
